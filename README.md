@@ -1,2 +1,4 @@
 # dotnet-deserialiation-scanner
-.NET Deserialization Passive Scanner
+Simple .NET Deserialization Passive Scanner
+
+Heavily inspired by Federico Dotta [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner)
